@@ -3,8 +3,8 @@ import './Cabecalho.css'
 function Cabecalho() {
   return (
     <div className="Cabecalho-container">
-      <h1>Feliz Aniversário</h1>
-      <p>Vamos Cantar parabens Para A Laura?</p>
+      <h1>Cabecalho</h1>
+      <p>Link1|Link2|Link3</p>
     </div>
   )
 }
