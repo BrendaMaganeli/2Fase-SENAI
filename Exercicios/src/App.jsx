@@ -12,6 +12,12 @@ function App() {
 
   return (
     <>
+      <Ex1 />
+      <br />
+      <br />
+      <Ex2 />
+      <br />
+      <br />
       <Ex3 />
     </>
   )
