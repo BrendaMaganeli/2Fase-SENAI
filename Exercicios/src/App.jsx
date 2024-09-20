@@ -9,23 +9,19 @@ import Ex2 from './Components/Ex2'
 import Ex3 from './Components/Ex3'
 import Ex6 from './Components/Ex6'
 import Ex4 from './Components/Ex4'
+import E525 from './Components/E525'
 function App() {
 
   return (
     <>
-      <Ex1 />
-      <br />
-      <br />
-      <Ex2 />
-      <br />
-      <br />
-      <Ex3 />
-      <br />
-      <br />
+
       <Ex4 />
       <br />
-      <br />
       <Ex6 />
+      <br />
+      <E525 />
+
+
     </>
   )
 }
