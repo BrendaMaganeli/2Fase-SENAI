@@ -4,6 +4,7 @@ import viteLogo from '/vite.svg'
 import './App.css'
 import E57 from './Components/E57'
 import E710 from './Components/E710'
+import E711 from './Components/E711'
 
 function App() {
 
@@ -14,6 +15,8 @@ function App() {
     <E57 />
     <br />
     <E710 />
+    <br />
+    <E711 />
 
     </>
   )

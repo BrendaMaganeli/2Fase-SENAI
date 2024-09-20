@@ -53,13 +53,13 @@ function E710() {
                 contadorHomem++
             }
         }
-        let mediaMulher = alturaMulheres / contadorMulher
+        let mediaMulher = (alturaMulheres / contadorMulher).toFixed(2)
           setMediaMulher(mediaMulher)
 
-        let percentualHomens = contadorHomem / 100
+        let percentualHomens = (contadorHomem * 100) / 10
           setHomensPercentual(percentualHomens)
 
-        let mediaPopulacao = alturapopulação / contador
+        let mediaPopulacao = (alturapopulação / contador).toFixed(2)
           setPopulacaoMedia(mediaPopulacao)
 
     }
